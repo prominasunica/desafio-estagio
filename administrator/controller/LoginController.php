@@ -8,7 +8,7 @@ $userDao = UserDao::getInstance();
 $user = $_POST['user'];
 $password = md5($_POST['password']);
 
-//conluir condição de login
+//concluir condição de login
 
 $result = ;
 
