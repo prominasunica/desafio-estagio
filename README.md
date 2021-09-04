@@ -1,6 +1,6 @@
 
 
-## DESAFIOS BACK-END
+## DESAFIOS DE BACK-END
 
 ### :desktop_computer:  1 DESAFIO - CONCLUIR O LOGIN DO DASHBOARD PROMINAS
 
@@ -12,8 +12,12 @@
 - conclua o crud da tabela leads(adicionar, editar e atualizar leads), as telas já estão prontas, basta concluir o back-end
 
 
-## DESAFIOS FRONT-END
+## DESAFIO FRONT-END
 
 ### :desktop_computer:  3 DESAFIO - CRIAÇÃO DE UMA PÁGINA
-- criar uma página semelhante a essa: <a href="https://prominasunicapos.com.br/parceiros">PROGRAMA DE PARCERIA PROMINAS</a>
+- criar uma página semelhante a essa: <a target="_blank" href="https://prominasunicapos.com.br/parceiros">PROGRAMA DE PARCERIA PROMINAS</a>
 - Que seja responsiva para dispositivos móveis
+
+## ENVIO DOS DESAFIOS
+- 🚀 enviar as soluções para o email: institutoprominaspos@gmail.com
+- 🔗 ou enviar o link do seu repositório do github com os desafios para nosso email
