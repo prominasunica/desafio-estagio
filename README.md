@@ -6,7 +6,7 @@
 
 - :warning: o controller de login falta algumas linhas de códigos para conclusão
 - :warning: tabela usuario: por padrão está usuario: "prominasunica", senha: "123456" em md5
-- 🔗 link do banco de dados sql: <a href="https://github.com/prominasunica/desafio-estagio/blob/master/administrator/database.sql">database.sql</a>
+- 🔗 link do banco de dados sql: <a target="_blank" href="https://github.com/prominasunica/desafio-estagio/blob/master/administrator/database.sql">database.sql</a>
 
 ### :desktop_computer:  2 DESAFIO - CRUD DE LEADS
 
