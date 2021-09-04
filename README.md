@@ -14,6 +14,6 @@
 
 ## DESAFIOS FRONT-END
 
-### :desktop_computer:  1 DESAFIO - CONCLUIR O LOGIN DO DASHBOARD PROMINAS
+### :desktop_computer:  3 DESAFIO - CRIAÇÃO DE UMA PÁGINA
 - criar uma página semelhante a essa: <a href="https://prominasunicapos.com.br/parceiros">PROGRAMA DE PARCERIA PROMINAS</a>
 - Que seja responsiva para dispositivos móveis
